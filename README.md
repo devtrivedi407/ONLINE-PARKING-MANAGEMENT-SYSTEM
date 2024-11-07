@@ -5,10 +5,9 @@ A responsive web application that allows users to book parking spaces online. Bu
 ## Features
 
 - **User-friendly interface**: A clean and modern design built with **Bootstrap** for responsive pages.
-- **Parking space selection**: Users can easily choose available parking spots from an interactive map or list.
-- **Booking system**: Users can book a parking spot for a selected time.
 - **Responsive design**: The website adapts to all screen sizes, providing a seamless experience on both desktop and mobile devices.
-
+**Q&A Page**: A dedicated **Question & Answer** page where users can ask questions about parking availability, booking procedures, and more. It allows users to interact with customer support or get help from the community.
+  
 ## Technologies Used
 
   - HTML5
